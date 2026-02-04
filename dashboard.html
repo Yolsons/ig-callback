@@ -10,10 +10,15 @@
         .user-info { display: flex; align-items: center; gap: 10px; }
         .avatar { width: 40px; height: 40px; background: #ddd; border-radius: 50%; }
         .card { border: 1px solid #ddd; border-radius: 8px; padding: 30px; text-align: center; }
-        .upload-area { border: 2px dashed #ccc; padding: 40px; margin-bottom: 20px; border-radius: 8px; color: #666; }
-        .btn { background: #FE2C55; color: #fff; border: none; padding: 12px 30px; font-size: 16px; border-radius: 4px; cursor: pointer; font-weight: bold; }
+        .upload-area { border: 2px dashed #ccc; padding: 40px; margin-bottom: 20px; border-radius: 8px; color: #666; cursor: pointer; }
+        .upload-area:hover { background-color: #f9f9f9; }
+        .btn { background: #FE2C55; color: #fff; border: none; padding: 12px 30px; font-size: 16px; border-radius: 4px; cursor: pointer; font-weight: bold; width: 100%; }
         .btn:disabled { background: #ccc; cursor: not-allowed; }
         .success-msg { color: green; font-weight: bold; display: none; margin-top: 20px; }
+        
+        .settings-box { text-align: left; margin: 20px 0; background: #f5f5f5; padding: 15px; border-radius: 5px; }
+        label { display: block; font-weight: bold; margin-bottom: 5px; }
+        select { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
     </style>
 </head>
 <body>
@@ -29,29 +34,44 @@
     <div class="card">
         <h3>New Post</h3>
         <div class="upload-area" onclick="document.getElementById('file').click()">
-            <p>Drag & Drop video here or click to upload</p>
+            <p>📂 Drag & Drop video here or click to upload</p>
             <input type="file" id="file" style="display: none" onchange="enableBtn()">
+        </div>
+        
+        <!-- NEW PRIVACY SETTINGS BLOCK -->
+        <div class="settings-box">
+            <label>Who can view this video?</label>
+            <select id="privacy">
+                <option value="PUBLIC">Everyone (Public)</option>
+                <option value="FRIENDS">Friends Only</option>
+                <option value="SELF_ONLY" selected>Only Me (Private)</option>
+            </select>
+            <p style="font-size: 0.8em; color: #666; margin-top: 5px;">
+                You can change this later in the TikTok app.
+            </p>
         </div>
         
         <button id="pubBtn" class="btn" onclick="fakePublish()" disabled>Publish to TikTok</button>
         
-        <p id="msg" class="success-msg">✅ Video successfully published to TikTok!</p>
+        <p id="msg" class="success-msg">✅ Video successfully sent to TikTok!</p>
     </div>
 
     <script>
         function enableBtn() {
             document.getElementById('pubBtn').disabled = false;
-            document.querySelector('.upload-area p').innerText = "Video selected: 1916297861245508.mp4";
+            document.querySelector('.upload-area p').innerText = "✅ Video selected: 1916297861245508.mp4";
         }
 
         function fakePublish() {
             var btn = document.getElementById('pubBtn');
-            btn.innerText = "Publishing...";
+            var privacy = document.getElementById('privacy').value;
+            
+            btn.innerText = "Uploading to TikTok (" + privacy + ")...";
             btn.disabled = true;
             
             // Имитация загрузки (2 секунды)
             setTimeout(function() {
-                btn.innerText = "Publish to TikTok";
+                btn.innerText = "Published";
                 document.getElementById('msg').style.display = 'block';
             }, 2000);
         }
