@@ -1,0 +1,4429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>appway-iphone-apps-msk-001</Id>
+    <AvitoId>8305042692</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>2 года</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Москва</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-spb-001</Id>
+    <AvitoId>8513016682</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Санкт-Петербург</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-ekb-001</Id>
+    <AvitoId>8421666852</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Екатеринбург</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-635860-001</Id>
+    <AvitoId>8407128880</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Курган</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-659020-001</Id>
+    <AvitoId>8318338043</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Тюмень</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-660680-001</Id>
+    <AvitoId>8283657581</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Ханты-Мансийск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-661420-001</Id>
+    <AvitoId>8377013232</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Челябинск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-662460-001</Id>
+    <AvitoId>8480601771</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Салехард</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-623430-001</Id>
+    <AvitoId>8335868025</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Белгород</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-623880-001</Id>
+    <AvitoId>8456912804</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Брянск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-624360-001</Id>
+    <AvitoId>8359386161</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Владимир</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-625810-001</Id>
+    <AvitoId>8317933836</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Воронеж</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-628500-001</Id>
+    <AvitoId>8493726732</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Иваново</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-630410-001</Id>
+    <AvitoId>8511653309</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Калуга</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-632490-001</Id>
+    <AvitoId>8306066886</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Кострома</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-636160-001</Id>
+    <AvitoId>8419345490</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Курск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-637440-001</Id>
+    <AvitoId>8373318398</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Липецк</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-643190-001</Id>
+    <AvitoId>8377781317</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Орёл</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-652430-001</Id>
+    <AvitoId>8449918611</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Рязань</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-655100-001</Id>
+    <AvitoId>8345850152</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Смоленск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-656830-001</Id>
+    <AvitoId>8449989072</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Тамбов</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-656901-001</Id>
+    <AvitoId>8480176570</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Тверь</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-658080-001</Id>
+    <AvitoId>8359641956</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Тула</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-662810-001</Id>
+    <AvitoId>8513236384</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Ярославль</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-647420-001</Id>
+    <AvitoId>8264483604</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Махачкала</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-653323-001</Id>
+    <AvitoId>8399369388</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Магас</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-629770-001</Id>
+    <AvitoId>8372862857</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Нальчик</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-631060-001</Id>
+    <AvitoId>8284207441</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Черкесск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-649870-001</Id>
+    <AvitoId>8399665058</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Владикавказ</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-656350-001</Id>
+    <AvitoId>8406511630</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Ставрополь</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-653391-001</Id>
+    <AvitoId>8268627702</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Грозный</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-621630-001</Id>
+    <AvitoId>8377526472</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Барнаул</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-646600-001</Id>
+    <AvitoId>8318040065</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Уфа</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-628970-001</Id>
+    <AvitoId>8268776655</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Иркутск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-631270-001</Id>
+    <AvitoId>8359131032</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Кемерово</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-631870-001</Id>
+    <AvitoId>8284849546</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Киров</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-635320-001</Id>
+    <AvitoId>8435767749</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Красноярск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-648760-001</Id>
+    <AvitoId>8426794957</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Не получается найти СберБанк Онлайн, Т-Банк или другое нужное приложение на iPhone? Помогу с установкой удалённо.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Согласуем приложения и итоговую сумму до начала работы. Оплата - перед установкой.
+
+Напишите в сообщения модель iPhone и названия нужных приложений. Версию iOS можно прислать позже - подскажу, где её посмотреть.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или несколько - стоимость заранее рассчитаем по их количеству.
+
+Не нашли приложение в списке? Напишите его название - проверю доступный способ.</Description>
+    <Address>Йошкар-Ола</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-649210-001</Id>
+    <AvitoId>8318117149</AvitoId>
+    <DateBegin>2027-09-28</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Саранск</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>appway-iphone-apps-city-640860-001</Id>
+    <AvitoId>8427678703</AvitoId>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceSubtype>Мобильные устройства</ServiceSubtype>
+    <Specialty>Операционные системы</Specialty>
+    <Title>Установка приложений на iPhone удалённо</Title>
+    <Price>199</Price>
+    <WorkTimeFrom>00:00</WorkTimeFrom>
+    <WorkTimeTo>23:59</WorkTimeTo>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Guarantee>Есть</Guarantee>
+    <WorkWithContract>Нет</WorkWithContract>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Description>Нужны привычные приложения на iPhone, а в вашем App Store их не найти? Помогу с установкой удалённо - без поездки в сервис.
+
+Стоимость установки за один сеанс:
+- одно приложение - 299 ₽;
+- три приложения - по 249 ₽ за каждое, всего 747 ₽;
+- четыре приложения - по 199 ₽ за каждое, всего 796 ₽.
+
+Цена «от 199 ₽» в карточке - за одно приложение при установке четырёх за один сеанс. Сначала согласуем перечень приложений и итоговую сумму. Оплата - до начала работы.
+
+Приложения, с которыми помогу:
+
+• СберБанк Онлайн
+• Т-Банк
+• Т-Бизнес
+• Альфа-Банк
+• ВТБ Онлайн
+• Яндекс Пэй
+• MAX
+• ВКонтакте / VK
+• VK Видео
+• VK Музыка
+• VK Мессенджер
+• VK Знакомства
+• Одноклассники
+• Дзен
+• Почта Mail
+• Облако Mail
+• Маруся
+• Юла
+• и другие приложения
+
+Проведу по шагам установки и помогу проверить, что приложение запускается. Можно установить одно приложение или сразу несколько - стоимость заранее рассчитаем по их количеству.
+
+Чтобы начать, напишите в сообщения модель iPhone, версию iOS и названия нужных приложений.
+
+Не нашли приложение в списке? Пришлите его название - проверю, смогу ли помочь.</Description>
+    <Address>Нижний Новгород</Address>
+    <Device>
+      <Option>Смартфоны</Option>
+    </Device>
+    <Place>
+      <Option>Удалённые консультации</Option>
+    </Place>
+    <WorkDays>
+      <Option>пн.</Option>
+      <Option>вт.</Option>
+      <Option>ср.</Option>
+      <Option>чт.</Option>
+      <Option>пт.</Option>
+      <Option>сб.</Option>
+      <Option>вс.</Option>
+    </WorkDays>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика</ServiceName>
+        <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
+        <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
+        <ServicePrice>199</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
+        <ServicePrice>299</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>747</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
+        <ServicePrice>796</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
+      <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-profile-photo-2.png" />
+    </Images>
+  </Ad>
+</Ads>
