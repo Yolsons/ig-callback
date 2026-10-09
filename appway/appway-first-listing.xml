@@ -76,34 +76,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -184,34 +156,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -296,34 +240,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -406,34 +322,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -514,34 +402,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -627,34 +487,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -735,34 +567,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -848,34 +652,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -957,34 +733,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -1070,34 +818,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -1181,34 +901,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -1289,34 +981,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -1402,34 +1066,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -1511,34 +1147,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -1624,34 +1232,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -1735,34 +1315,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -1843,34 +1395,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -1956,34 +1480,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -2064,34 +1560,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -2177,34 +1645,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -2286,34 +1726,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -2399,34 +1811,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -2509,34 +1893,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -2617,34 +1973,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -2730,34 +2058,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -2839,34 +2139,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -2952,34 +2224,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -3061,34 +2305,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -3174,34 +2390,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -3283,34 +2471,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -3396,34 +2556,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -3506,34 +2638,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -3614,34 +2718,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -3727,34 +2803,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -3836,34 +2884,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -3949,34 +2969,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -4058,34 +3050,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
@@ -4171,34 +3135,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -4282,34 +3218,6 @@
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
     </PriceList>
     <Images>
       <Image url="https://raw.githubusercontent.com/Yolsons/ig-callback/d863c908b3859455963c09f0dd19081bd2b34e53/appway/appway-apps-iphone-cover-no-rzd.png" />
@@ -4390,34 +3298,6 @@
         <ServiceName>Диагностика</ServiceName>
         <ServiceDiagnosticPrice>0</ServiceDiagnosticPrice>
         <ServiceDiagnosticPriceWithRepair>0</ServiceDiagnosticPriceWithRepair>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка приложений на iPhone (цена за приложение)</ServiceTitle>
-        <ServicePrice>199</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка одного приложения на iPhone</ServiceTitle>
-        <ServicePrice>299</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка трёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>747</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Своя услуга</ServiceName>
-        <ServiceTitle>Установка четырёх приложений на iPhone за один сеанс</ServiceTitle>
-        <ServicePrice>796</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
     </PriceList>
